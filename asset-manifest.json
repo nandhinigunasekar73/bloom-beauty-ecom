@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/bloom-beauty-ecom/static/css/main.5f4ff11e.css",
+    "main.js": "/bloom-beauty-ecom/static/js/main.aa9c6fb4.js",
+    "static/js/453.e5e0d559.chunk.js": "/bloom-beauty-ecom/static/js/453.e5e0d559.chunk.js",
+    "static/media/img12.png": "/bloom-beauty-ecom/static/media/img12.8e7a28e5cec3c66457df.png",
+    "static/media/img1.png": "/bloom-beauty-ecom/static/media/img1.e76a774e5228ac6bf66c.png",
+    "static/media/img13.png": "/bloom-beauty-ecom/static/media/img13.3717269ddb7ec9571bad.png",
+    "static/media/img19.png": "/bloom-beauty-ecom/static/media/img19.86866ea92556b52246fc.png",
+    "static/media/img26.png": "/bloom-beauty-ecom/static/media/img26.697927cbdc21fe6b3be6.png",
+    "static/media/img14.png": "/bloom-beauty-ecom/static/media/img14.50c56779d256e9e86d2b.png",
+    "static/media/img24.png": "/bloom-beauty-ecom/static/media/img24.3da745d2203094fdb3fe.png",
+    "static/media/img20.png": "/bloom-beauty-ecom/static/media/img20.feddcd0491b2fe47ba01.png",
+    "static/media/img21.png": "/bloom-beauty-ecom/static/media/img21.6d8a78a108f5c4d5c8b4.png",
+    "static/media/img5.png": "/bloom-beauty-ecom/static/media/img5.032d895997bca3069973.png",
+    "static/media/img25.png": "/bloom-beauty-ecom/static/media/img25.a716a4d478354328b1fb.png",
+    "static/media/img22.png": "/bloom-beauty-ecom/static/media/img22.f4a4bbd9e724418c3d0a.png",
+    "static/media/img23.png": "/bloom-beauty-ecom/static/media/img23.35e42c15ac93d61efaf9.png",
+    "static/media/img17.png": "/bloom-beauty-ecom/static/media/img17.4e1650dcf83dc05841d8.png",
+    "static/media/img16.png": "/bloom-beauty-ecom/static/media/img16.8ed54cbe3ee22f1aefbe.png",
+    "static/media/img15.png": "/bloom-beauty-ecom/static/media/img15.a0901e38813a189dda8d.png",
+    "static/media/img2.png": "/bloom-beauty-ecom/static/media/img2.dd822c8a4f48b38eceaf.png",
+    "static/media/img8.png": "/bloom-beauty-ecom/static/media/img8.770c0b228afdd3b519d5.png",
+    "static/media/img9.png": "/bloom-beauty-ecom/static/media/img9.c8d6c7a6ca8b1d7083c2.png",
+    "static/media/img11.png": "/bloom-beauty-ecom/static/media/img11.3599ce868db10d5f19bc.png",
+    "static/media/img10.png": "/bloom-beauty-ecom/static/media/img10.0cda80a0cc0e205ae1d7.png",
+    "static/media/img4.png": "/bloom-beauty-ecom/static/media/img4.a28ec50203a0018b00c4.png",
+    "static/media/img3.png": "/bloom-beauty-ecom/static/media/img3.db47c981e23838323ca7.png",
+    "index.html": "/bloom-beauty-ecom/index.html",
+    "main.5f4ff11e.css.map": "/bloom-beauty-ecom/static/css/main.5f4ff11e.css.map",
+    "main.aa9c6fb4.js.map": "/bloom-beauty-ecom/static/js/main.aa9c6fb4.js.map",
+    "453.e5e0d559.chunk.js.map": "/bloom-beauty-ecom/static/js/453.e5e0d559.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f4ff11e.css",
+    "static/js/main.aa9c6fb4.js"
+  ]
+}
