@@ -1,0 +1,41 @@
+nav{
+    height: 80px;
+    margin: 0 auto;
+    align-items: center;
+  }
+  
+  .navbar{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    align-items: center;  
+  }
+  
+  .nav-links{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+  }
+  
+  span{
+    color: #F5A3B7;
+  }
+  
+  nav li{
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  
+  nav li:hover{
+    color: #F5A3B7;
+  }
+  
+  .search-bar{
+    display: flex;
+    gap: 20px;
+  }
+  
+  .search-icon, .account-icon, .cart-icon{
+    text-align: center;
+    cursor: pointer;
+  }

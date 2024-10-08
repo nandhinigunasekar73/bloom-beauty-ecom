@@ -1,0 +1,464 @@
+
+  
+  /* Content Section */
+  
+  .content{
+    display: flex;
+    height: 463px;  
+    margin: 0 auto;
+    align-items: center;
+    background-color: #F5E0E5;
+  }
+  
+  .content-text{
+    margin: 50px;
+    padding-left: 10%;
+  }
+  
+  .content-heading{
+    text-transform: uppercase;
+    text-align: left;
+  }
+  
+  .content-text p{
+    margin-top: 20px;
+  }
+  
+  .shop-now-btn{
+    background-color: #F5A3B7;
+    text-transform: uppercase;
+    color: white;
+    padding: 15px 40px;
+    border: none;
+    margin-top: 30px;
+    cursor: pointer;
+  }
+  
+  .content-image img {
+    height: 463px;
+  }
+
+/* New Arraival Section */
+
+.new-arrival{
+    height: 680px;
+    width: 1256px;
+    margin: 0 auto;
+  }
+  
+  .new-arrival-cards{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .new-arrival-heading{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 50px;
+  }
+  
+  .new-arrival-p{
+    text-align: center;
+  }
+  
+  .new-arrival-text{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .new-arrival-img{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  
+  .card{
+    height: 300px;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .card:hover{
+    cursor: pointer;
+  }
+  
+  .card-p{
+    text-align: center;
+    margin-top: 10px;
+    color: #697586;
+  }
+  
+  .card-rating{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+    color: #DFE1E3;
+    gap: 5px;
+  }
+  
+  .card-rating-val{
+    color: #697586;
+  }
+  
+  .card-price{
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .card-img{
+    padding-bottom: 20px;
+  }
+  
+  .card-btn{
+    padding: 15px 30px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: white;
+  }
+  
+  .card-btn:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+  }
+  
+  .card-container {
+    position: relative;
+  }
+  
+  .card-discount-container{
+    display: flex;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+  }
+  
+  .card-discount{
+    background-color: #F5A3B7;
+    color: white;
+    padding: 5px;
+    height: 30px;
+    width: 70px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    display: none;
+  }
+  
+  #wish-list{
+   color: #BFB9CF;
+   font-size: 20px;
+   position: absolute;
+   top: 10px;
+   right: 10px;
+   display: none;
+  }
+  
+  .card-container:hover .card-discount{
+    display: block;
+  }
+  
+  .card-container:hover #wish-list{
+    display: block;
+  } 
+  
+  /* Best seller Section */
+  
+  .best-seller{
+    height: 680px;
+    width: 1256px;
+    margin: 0 auto;
+    align-items: center;
+  }
+  
+  .best-seller-cards{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .best-seller-heading{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 50px;
+  }
+  
+  .best-seller-p{
+    text-align: center;
+  }
+  
+  .best-seller-text{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .best-seller-img{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  
+  .card-rated{
+    background-color: #BFB9CF;
+    color: white;
+    padding: 5px;    
+    width: 100px;
+    height: 30px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    display: none;
+  }
+  
+  .card:hover .card-rated{
+    display: block;
+  }
+  
+  /* Glow kit Section */
+  
+  .glow-kit{
+    width: 1216px;
+    height: 1060px;
+    margin: 0 auto;
+  }
+  
+  .glow-kit-container{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+    align-items: center; 
+  }
+  
+  .glow-kit-img{
+    text-align: center;
+    padding-top: 20px;
+  }
+  
+  .glow-kit-heading{
+    text-align: left;
+    padding-top: 50px;
+  }
+  
+  .glow-kit-p{
+    text-align: left;
+    padding-top: 20px;
+    color: #697586;
+    padding-bottom: 20px;    
+  }
+  
+  .glow-kit-btn-container{
+    display: flex;
+    gap: 20px;
+  }
+  
+  .glow-kit-btn{
+    background-color: #F5A3B7;
+    text-transform: uppercase;
+    color: white;
+    padding: 15px 40px;
+    border: none;
+    margin-top: 30px;
+    cursor: pointer;
+  }
+  
+  .glow-kit-exp{
+    padding: 15px 30px;
+    margin-top: 30px;
+  }
+  
+  .glow-kit-arrow{
+    padding: 15px 30px;
+    margin-top: 30px;
+    margin-left: -70px;
+  }
+  
+  .glow-kit-ul{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+  }
+  
+  .glow-kit-li{
+    padding: 5px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #DFE1E3;
+    background-color: #DFE1E3;
+  }
+  
+  /* Blog Section */
+  
+  .blog{
+    height: 546px;
+    width: 1256px;
+    margin: 0 auto;
+  }
+  
+  .blog-card-container{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .blog-card{
+    height: 413px;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .blog-heading{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 50px;
+  }
+  
+  .blog-p{
+    text-align: center;
+  }
+  
+  .blog-text{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .blog-img{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  
+  /* Quiz Section */
+  
+  .quiz{
+    display: flex;
+    height: 344px;
+    margin: 0 auto;
+    align-items: center;
+  
+  }
+  
+  .quiz-text-container{  
+    height: 226px;
+    width: 100%;
+    margin: 0 auto;
+    align-items: center;
+    background-color: #FEE2E3;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .quiz-container{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+  }
+  
+  .quiz-img{
+    display: flex;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  
+  .quiz-img1{
+    z-index: 1;
+  }
+  
+  .quiz-img2{
+    position: absolute;
+    top: 160px;
+    bottom: 0px;
+    left: 120px;
+    right: 0px;
+    margin: auto;
+    rotate: 12deg;
+    z-index: 0;
+  }
+  
+  .quiz-p{
+    text-align: center;
+    padding-top: 20px;
+    color: #697586;
+    text-align: left;
+  }
+  
+  .quiz-btn{
+    background-color: #F5A3B7;
+    text-transform: uppercase;
+    color: white;
+    padding: 15px 40px;
+    border: none;
+    margin-top: 30px;
+    cursor: pointer;
+  }
+  
+  /* Share Section */
+  
+  .share{
+    height: 762px;
+    margin: 0 auto;
+  }
+  
+  .share-card-container{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .share-card{
+    height: 289px;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .share-heading{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 50px;
+  }
+  
+  .share-p{
+    text-align: center;
+  }
+  
+  .share-text{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .share-img{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  
+  .share-margin{
+    margin-top: 10px;
+  }
+  
+  .share-btn-container{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .share-btn{
+    background-color: #F5A3B7;
+    text-transform: uppercase;
+    color: white;
+    padding: 15px 50px;
+    border: none;
+    margin-top: 30px;
+    cursor: pointer;
+  }
