@@ -327,7 +327,7 @@ const Home = () => {
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Blanditiis, harum.
             </p>
-            <button className="card-btn">Read More</button>
+            <button className="blog-btn">Read More</button>
           </div>
           <div className="blog-card">
             <img
@@ -340,7 +340,7 @@ const Home = () => {
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Blanditiis, harum.
             </p>
-            <button className="card-btn">Read More</button>
+            <button className="blog-btn">Read More</button>
           </div>
           <div className="blog-card">
             <img
@@ -353,7 +353,7 @@ const Home = () => {
               Lorem ipsum dolor sit amet consectetur adipisicing elit.
               Blanditiis, harum.
             </p>
-            <button className="card-btn">Read More</button>
+            <button className="blog-btn">Read More</button>
           </div>
         </div>
       </section>

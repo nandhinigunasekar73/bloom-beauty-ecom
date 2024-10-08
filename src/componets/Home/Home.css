@@ -53,19 +53,19 @@
   }
   
   .new-arrival-heading{
-    text-align: center;
     text-transform: uppercase;
     padding-top: 50px;
-  }
-  
-  .new-arrival-p{
-    text-align: center;
   }
   
   .new-arrival-text{
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 20px;
+  }
+
+  .new-arrival-p{
+    text-align: center;
   }
   
   .new-arrival-img{
@@ -76,7 +76,6 @@
   
   .card{
     height: 300px;
-    text-align: center;
     padding: 20px;
   }
   
@@ -85,15 +84,12 @@
   }
   
   .card-p{
-    text-align: center;
     margin-top: 10px;
     color: #697586;
   }
   
   .card-rating{
     display: flex;
-    justify-content: center;
-    text-align: center;
     margin-top: 10px;
     color: #DFE1E3;
     gap: 5px;
@@ -104,7 +100,6 @@
   }
   
   .card-price{
-    text-align: center;
     margin-top: 10px;
   }
   
@@ -113,7 +108,7 @@
   }
   
   .card-btn{
-    padding: 15px 30px;
+    padding: 15px 100px;
     border-color: black;
     border-width: 1px;
     border-style: solid;
@@ -270,14 +265,14 @@
   }
   
   .glow-kit-exp{
-    padding: 15px 30px;
+    padding: 15px;
     margin-top: 30px;
   }
   
   .glow-kit-arrow{
     padding: 15px 30px;
-    margin-top: 30px;
-    margin-left: -70px;
+    margin-top: 32px;
+    margin-left: -50px;
   }
   
   .glow-kit-ul{
@@ -310,7 +305,6 @@
   
   .blog-card{
     height: 413px;
-    text-align: center;
     padding: 20px;
   }
   
@@ -334,6 +328,22 @@
     text-align: center;
     padding-top: 50px;
     padding-bottom: 20px;
+  }
+
+  .blog-btn{
+    padding: 15px 160px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: white;
+  }
+  
+  .blog-btn:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
   }
   
   /* Quiz Section */
@@ -407,7 +417,7 @@
   /* Share Section */
   
   .share{
-    height: 762px;
+    height: 780px;
     margin: 0 auto;
   }
   
@@ -419,7 +429,7 @@
   .share-card{
     height: 289px;
     text-align: center;
-    padding: 20px;
+    padding: 5px;
   }
   
   .share-heading{
