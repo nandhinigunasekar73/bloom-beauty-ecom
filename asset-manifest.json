@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bloom-beauty-ecom/static/css/main.5f4ff11e.css",
-    "main.js": "/bloom-beauty-ecom/static/js/main.aa9c6fb4.js",
+    "main.css": "/bloom-beauty-ecom/static/css/main.2e6eb4f3.css",
+    "main.js": "/bloom-beauty-ecom/static/js/main.e11790b0.js",
     "static/js/453.e5e0d559.chunk.js": "/bloom-beauty-ecom/static/js/453.e5e0d559.chunk.js",
     "static/media/img12.png": "/bloom-beauty-ecom/static/media/img12.8e7a28e5cec3c66457df.png",
     "static/media/img1.png": "/bloom-beauty-ecom/static/media/img1.e76a774e5228ac6bf66c.png",
@@ -27,12 +27,12 @@
     "static/media/img4.png": "/bloom-beauty-ecom/static/media/img4.a28ec50203a0018b00c4.png",
     "static/media/img3.png": "/bloom-beauty-ecom/static/media/img3.db47c981e23838323ca7.png",
     "index.html": "/bloom-beauty-ecom/index.html",
-    "main.5f4ff11e.css.map": "/bloom-beauty-ecom/static/css/main.5f4ff11e.css.map",
-    "main.aa9c6fb4.js.map": "/bloom-beauty-ecom/static/js/main.aa9c6fb4.js.map",
+    "main.2e6eb4f3.css.map": "/bloom-beauty-ecom/static/css/main.2e6eb4f3.css.map",
+    "main.e11790b0.js.map": "/bloom-beauty-ecom/static/js/main.e11790b0.js.map",
     "453.e5e0d559.chunk.js.map": "/bloom-beauty-ecom/static/js/453.e5e0d559.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f4ff11e.css",
-    "static/js/main.aa9c6fb4.js"
+    "static/css/main.2e6eb4f3.css",
+    "static/js/main.e11790b0.js"
   ]
 }
